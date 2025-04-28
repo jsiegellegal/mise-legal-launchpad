@@ -5,27 +5,33 @@ const ProblemSection: FC = () => {
   return (
     <section className="bg-gray-light section-padding">
       <div className="container-narrow">
-        <h2 className="h2 mb-8 text-center">Bleeding Cash on Legal? Is Bad Advice Costing You Deals?</h2>
-        <div className="space-y-6">
-          <div className="p-6 bg-white rounded-lg shadow-sm">
-            <p className="body-text">
-              <span className="font-bold">That $800/hour invoice lands. Your runway shrinks. Again.</span> Are endless Big Law bills burning through your funding?
-            </p>
-          </div>
-          <div className="p-6 bg-white rounded-lg shadow-sm">
-            <p className="body-text">
-              <span className="font-bold">Your lawyer asks basic questions about SaaS metrics. Deals stall. Opportunities vanish.</span> Is generic legal advice slowing you down when speed matters most?
-            </p>
-          </div>
-          <div className="p-6 bg-white rounded-lg shadow-sm">
-            <p className="body-text">
-              <span className="font-bold">You sign contracts praying they're okay. Compliance feels like a minefield.</span> Are you losing sleep worrying about hidden risks that could cripple your startup?
-            </p>
-          </div>
-          <div className="p-6 bg-white rounded-lg shadow-sm">
-            <p className="body-text">
-              <span className="font-bold">You're drowning in legal tasks instead of building your product or closing sales.</span> Is managing legal chaos stealing your focus from what truly drives growth?
-            </p>
+        <div className="max-w-3xl mx-auto">
+          <h2 className="h2 mb-6 text-center">Seeking Value Beyond High Legal Bills?</h2>
+          <p className="body-text mb-6">
+            Traditional law firms can be expensive and inflexible. Legal Mise provides a smarter alternative: your dedicated Fractional General Counsel. We offer:
+          </p>
+          
+          <div className="space-y-6 mt-8">
+            <div>
+              <h3 className="h3 mb-2">Flexible & Cost-Effective Pricing</h3>
+              <p className="body-text">
+                Partner-level expertise with transparent options – including predictable retainers, project fees, or hourly rates – designed to fit your budget and needs, often saving significantly compared to Big Law.
+              </p>
+            </div>
+            
+            <div>
+              <h3 className="h3 mb-2">Startup-Focused Guidance</h3>
+              <p className="body-text">
+                Practical advice on funding, commercial contracts, employment matters, IP, and compliance from lawyers who know the startup journey inside and out.
+              </p>
+            </div>
+            
+            <div>
+              <h3 className="h3 mb-2">Long-Term Strategic Partnership</h3>
+              <p className="body-text">
+                We act as part of your team, deeply involved in understanding your goals and helping you make informed decisions to drive growth and mitigate risk.
+              </p>
+            </div>
           </div>
         </div>
       </div>
