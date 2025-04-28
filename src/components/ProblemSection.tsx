@@ -22,7 +22,7 @@ const ProblemSection: FC = () => {
             <div>
               <h3 className="h3 mb-2">Startup-Focused Guidance</h3>
               <p className="body-text">
-                Practical advice on funding, commercial contracts, employment matters, IP, and compliance from lawyers who know the startup journey inside and out.
+                Practical advice on funding, commercial contracts, employment matters, IP, corporate governance, and compliance from lawyers who know the startup journey inside and out.
               </p>
             </div>
             
